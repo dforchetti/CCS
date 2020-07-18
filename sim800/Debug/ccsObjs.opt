@@ -1,0 +1,1 @@
+"./sim801.obj" "./tm4c1231h6pm_startup_ccs.obj" "./LIBS/SDmio.obj" "./LIBS/sd_fs.obj" "./LIBS/tick.obj" "./LIBS/uartstdio.obj" "./fatfs/port/mmc-dk-tm4c123g.obj" "./fatfs/src/ff.obj" "C:/ti/TivaWare_C_Series-2.2.0.295/driverlib/ccs/Debug/driverlib.lib" "../tm4c1231h6pm.cmd" -llibc.a -l"C:/ti/TivaWare_C_Series-2.2.0.295/driverlib/ccs/Debug/driverlib.lib" 
